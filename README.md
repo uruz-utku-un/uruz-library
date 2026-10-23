@@ -1,4 +1,5 @@
 # Uruz Library
+
 **[TR]**
 >Bilgi, Notlar, Makaleler ve Kişisel Araştırma Arşivi
 
@@ -29,27 +30,40 @@ and personal research.
 
 ---
 
+## Kategoriler · Categories
+- [Yazılım · Software](#yazılım--software)
+- [Oyun Geliştirme · Game Development](#oyun-geliştirme--game-development)
+- [Motosiklet · Motorcycle](#motosiklet--motorcycle)
+- [Ekonomi · Economy](#ekonomi--economy)
+
+---
+
 ## Diller · Languages
 - **[TR]** Türkçe
 - **[EN]** English
 
 ---
 
-## Kategoriler · Categories
-### Yazılım · Softwares
-- [Uruz Yaşam Ağacının Temelleri · Foundations of Uruz Tree of Software](.docs/tr/software/foundations-of-uruz-software-tree-tr.md)
-
-### Oyun Geliştirme · Game Development
-- None
-
-### Motosiklet · Motorcycle
-- None
-
-### Ekonomi · Economy
-- None
+## 💻 Yazılım · Software
+- [Uruz Yazılım Ağacının Temelleri · Foundations of Uruz Tree of Software](./docs/tr/software/foundations-of-uruz-software-tree-tr.md)
 
 ---
 
-***Uruz · Utku Ün · Kurt***
+## 🎮 Oyun Geliştirme · Game Development
+- 🚧 Yakında eklenecek · Coming soon
+
+---
+
+## 🏍️ Motosiklet · Motorcycle
+- 🚧 Yakında eklenecek · Coming soon
+
+---
+
+## 📈 Ekonomi · Economy
+- 🚧 Yakında eklenecek · Coming soon
+
+---
+
+***Uruz · Utku Ün · Kurt - The Wolf's Path***
 
 ---
