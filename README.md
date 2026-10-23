@@ -7,6 +7,8 @@ yazılım, oyun geliştirme, motosiklet kültürü, sistem düşüncesi
 ve kişisel araştırmalar üzerine oluşturduğum yazıların bulunduğu
 açık bilgi kütüphanesidir.
 
+**Belgelerin orijinal dili Türkçedir.**
+
 **[EN]**
 > Knowledge, Notes, Articles and Personal Research Archive
 
@@ -14,6 +16,8 @@ açık bilgi kütüphanesidir.
 an open knowledge library containing articles I have written on
 software, game development, motorcycle culture, systems thinking,
 and personal research.
+
+**The original language of the documents is Turkish.**
 
 ---
 
