@@ -31,10 +31,10 @@ and personal research.
 ---
 
 ## Kategoriler · Categories
-- [Yazılım · Software](#yazılım--software)
-- [Oyun Geliştirme · Game Development](#oyun-geliştirme--game-development)
-- [Motosiklet · Motorcycle](#motosiklet--motorcycle)
-- [Ekonomi · Economy](#ekonomi--economy)
+- [Yazılım · Software](#-yazılım--software)
+- [Oyun Geliştirme · Game Development](#-oyun-geliştirme--game-development)
+- [Motosiklet · Motorcycle](#-motosiklet--motorcycle)
+- [Ekonomi · Economy](#-ekonomi--economy)
 
 ---
 
