@@ -45,7 +45,7 @@ and personal research.
 ---
 
 ## 💻 Yazılım · Software
-- [Uruz Yazılım Ağacının Temelleri · Foundations of Uruz Tree of Software](./docs/tr/software/foundations-of-uruz-software-tree-tr.md)
+- [Uruz Yazılım Ağacının Temelleri · Foundations of Uruz Tree of Software](./docs/software/tr/foundations-of-uruz-software-tree-tr.md)
 
 ---
 
