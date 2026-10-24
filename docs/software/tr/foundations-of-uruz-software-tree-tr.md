@@ -205,3 +205,9 @@ Bu yaklaşım yeni bir teknoloji, programlama dili veya mimari kalıbı önermez
 **Yazılım geliştirme sürecinde sürdürülebilirliğin,**
 **çoğu zaman yeni şeyler eklemekten değil;**
 **gereksiz olanı eklememekten geçtiğine inanıyorum.**
+
+---
+
+***Uruz · Utku Ün · Kurt - The Wolf's Path***
+
+---
