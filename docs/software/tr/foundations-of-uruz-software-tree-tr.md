@@ -1,9 +1,12 @@
 # Uruz Yazılım Ağacının Temelleri
 ***Yazılım büyüdükçe karmaşıklaşır.***
+\
 *Karmaşıklaştıkça anlaşılması, test edilmesi ve sürdürülebilmesi zorlaşır.*
 
 ***Bu yazı,***
-*yazılımı daha küçük ve anlamlı parçalara ayırarak*
+\
+*yazılımı daha küçük ve anlamlı parçalara ayırarak,*
+\
 *yönetilebilir sistemler oluşturma üzerine*
 *kişisel bir tasarım yaklaşımını anlatmaktadır.*
 
