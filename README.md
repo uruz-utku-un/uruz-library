@@ -46,7 +46,7 @@ and personal research.
 
 ## 💻 Yazılım · Software
 - [Uruz Yazılım Ağacının Temelleri](./docs/software/tr/foundations-of-uruz-software-tree-tr.md)
-  · Foundations of Uruz Tree of Software]()
+  · [Foundations of Uruz Tree of Software]()
 - [Programlamanın Özünde Anlam ve Veri](./docs/software/tr/meaning-and-data-at-the-core-of-programming-tr.md)
   · [Meaning and Data at the Core of Programming]()
 ---
