@@ -66,6 +66,6 @@ and personal research.
 
 ---
 
-***Uruz · Utku Ün · Kurt - The Wolf's Path***
+***Uruz · Utku Ün · Kurt - Kurt'un Yolu · The Wolf's Path***
 
 ---
