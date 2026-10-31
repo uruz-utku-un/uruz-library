@@ -22,7 +22,7 @@ and personal research.
 
 ---
 
-**Belge Sürümü ·  Document Version:** V2.0
+**Belge Sürümü ·  Document Version:** V3.0
 \
 **Yazar · Author:** [Uruz - Utku Ün (Kurt)](https://uruz-utku-un.github.io)
 \
