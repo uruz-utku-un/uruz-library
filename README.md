@@ -45,10 +45,13 @@ and personal research.
 ---
 
 ## 💻 Yazılım · Software
-- [Uruz Yazılım Ağacının Temelleri](./docs/software/tr/foundations-of-uruz-software-tree-tr.md)
-  · [Foundations of Uruz Tree of Software]()
 - [Programlamanın Özünde Anlam ve Veri](./docs/software/tr/meaning-and-data-at-the-core-of-programming-tr.md)
   · [Meaning and Data at the Core of Programming]()
+- [Uruz Yazılım Ağacının Temelleri](./docs/software/tr/foundations-of-uruz-software-tree-tr.md)
+  · [Foundations of Uruz Tree of Software]()
+- [Uruz Web CSS Öğe Yapılandırma Standardı](./docs/software/tr/uruz-web-css-element-configuration-standart-tr.md)
+  · [Uruz Web CSS Element Configuration Standard]()
+
 ---
 
 ## 🎮 Oyun Geliştirme · Game Development
