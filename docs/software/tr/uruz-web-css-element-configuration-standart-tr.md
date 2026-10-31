@@ -1,4 +1,4 @@
-# Uruz · Web CSS Öğe Yapılandırma Standardı (U-WCSS-01)
+# Uruz Web CSS Öğe Yapılandırma Standardı (U-WCSS-01)
 
 **CSS kodları büyüdükçe karmaşıklaşır.**
 \
