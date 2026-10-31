@@ -1,4 +1,4 @@
-# Uruz Web CSS Öğe Yapılandırma Standardı (U-WCSS-01)
+# Uruz · Web CSS Öğe Yapılandırma Standardı (U-WCSS-01)
 
 **CSS kodları büyüdükçe karmaşıklaşır.**
 \
@@ -63,11 +63,15 @@ Uruz - Utku Ün (Kurt)
 
 ## 01 · Amaç ve Yaklaşım
 
-Bu belge, Uruz web sitesi içerisinde kullanılan CSS kurallarının hangi sırayla düzenleneceğini tanımlar.
+Bu belge, Uruz web sitesi içerisinde kullanılan CSS kurallarının
+hangi sırayla düzenleneceğini tanımlar.
 
-Belirlenen sıralama; kodun okunabilirliğini artırmayı, bileşenlerin görsel ve yapısal özelliklerini birbirinden ayırmayı ve proje genelinde ortak bir kod yazım standardı oluşturmayı amaçlar.
+Belirlenen sıralama; kodun okunabilirliğini artırmayı, bileşenlerin
+görsel ve yapısal özelliklerini birbirinden ayırmayı ve proje genelinde
+ortak bir kod yazım standardı oluşturmayı amaçlar.
 
-CSS özellikleri, bir öğenin dış görünümünden başlayarak iç yerleşimine ve metinsel özelliklerine, oradan da görsel efektlerine doğru sıralanır.
+CSS özellikleri, bir öğenin dış görünümünden başlayarak iç yerleşimine
+ve metinsel özelliklerine, oradan da görsel efektlerine doğru sıralanır.
 
 ### Temel Yaklaşım
 
@@ -82,7 +86,9 @@ flowchart TD
 COMING_SOON[V1.0 için eklenecek]
 ```
 
-Bu düzen, CSS dilinin zorunlu kıldığı bir kural değildir. Uruz projesinde kod tutarlılığı ve okunabilirliği sağlamak amacıyla benimsenen bir geliştirme standardıdır.
+Bu düzen, CSS dilinin zorunlu kıldığı bir kural değildir.
+Uruz projesinde kod tutarlılığı ve okunabilirliği sağlamak amacıyla
+benimsenen bir geliştirme standardıdır.
 
 ---
 
@@ -126,7 +132,8 @@ CSS bildirimleri aşağıdaki kategoriler esas alınarak sıralanır.
 
 ### 03. Boyutlandırma · Sizing
 
-Öğenin genişlik ve yükseklik değerlerini, ayrıca minimum ve maksimum boyut sınırlarını belirler.
+Öğenin genişlik ve yükseklik değerlerini, ayrıca minimum ve maksimum
+boyut sınırlarını belirler.
 
 - `width`, `height`
 - `min-width`, `max-width`
@@ -251,10 +258,12 @@ Uygulamada aşağıdaki ilkeler gözetilir:
 ## 05 · Sonuç
 
 **Uruz CSS Öğe Öznitelik Düzeni,**
+\
 projede kullanılan stil kurallarının ortak bir mantıkla organize edilmesini
 sağlayan bir kod yazım standardıdır.
 
 **Amaç,**
+\
 her CSS dosyasını aynı görünüşte yazmak değil;
 farklı bileşenlerde dahi aynı düşünce ve sıralama düzenini korumaktır.
 
