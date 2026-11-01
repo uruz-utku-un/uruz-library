@@ -33,7 +33,7 @@ V1.0
 \
 **Son Güncelleme:**
 2026-11-01
-\
+
 **Yazar:**
 Uruz - Utku Ün (Kurt)
 
