@@ -28,14 +28,14 @@ Web Geliştirme · CSS
 **Belge Sürümü:**
 V1.0
 \
-**Yazar:**
-Uruz - Utku Ün (Kurt)
-\
 **Oluşturulma Tarihi:**
 2026-11-01
 \
 **Son Güncelleme:**
 2026-11-01
+\
+**Yazar:**
+Uruz - Utku Ün (Kurt)
 
 ---
 
