@@ -32,8 +32,10 @@ V1.0
 Uruz - Utku Ün (Kurt)
 \
 **Oluşturulma Tarihi:**
-01.11.2026
-
+2026-11-01
+\
+**Son Güncelleme:**
+2026-11-01
 ---
 
 ## Bölümler
