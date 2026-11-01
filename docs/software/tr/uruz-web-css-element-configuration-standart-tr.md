@@ -36,6 +36,7 @@ Uruz - Utku Ün (Kurt)
 \
 **Son Güncelleme:**
 2026-11-01
+
 ---
 
 ## Bölümler
